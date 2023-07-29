@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-Este es el repositorio del course modulo2 Henry
+Javan alves
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github hacia code
+
